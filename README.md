@@ -11,3 +11,7 @@ Might output something like
 ```
 Stream 0 has a consistent GOP size of 48
 ```
+
+## Requirements
+
+This projects is build on top of ffmpeg and requires libraries like `libavutil.so` to be installed on your system.
