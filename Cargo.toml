@@ -1,6 +1,8 @@
 [package]
-name = "gop-checker"
-version = "0.1.0"
+name = "goptest"
+version = "1.0.0"
 edition = "2021"
 
 [dependencies]
+clap = { version = "4.5.17", features = ["derive"] }
+ffmpeg-next = "7.0.4"
